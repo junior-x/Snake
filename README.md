@@ -1,0 +1,2 @@
+# Snake
+JavaScript mini-game
